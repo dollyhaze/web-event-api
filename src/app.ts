@@ -4,13 +4,6 @@ import logger from './helpers/logger';
 import mysql from 'mysql'
 const app = express();
 
-var connection = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : '',
-  database : 'test'
-});
-
 
 
 app.use('/article', article)

@@ -1,0 +1,1127 @@
+{
+  "parkingFacilities": [
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/8d85bbdb-8bbd-4a24-b35f-85f21186ec04",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/8d85bbdb-8bbd-4a24-b35f-85f21186ec04",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2490470982696,
+        "longitude": 6.16317987442017
+      },
+      "identifier": "8d85bbdb-8bbd-4a24-b35f-85f21186ec04",
+      "name": "P06 - Sluisstraat"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/21b0388a-56f7-4cba-8fd3-4a1c914f5fe2",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/21b0388a-56f7-4cba-8fd3-4a1c914f5fe2",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.43874285574651,
+        "longitude": 4.828051328659058
+      },
+      "identifier": "21b0388a-56f7-4cba-8fd3-4a1c914f5fe2",
+      "name": "3 - Burcht"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/80d26cc5-1210-4bdf-beb4-0602f35bdccc",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/80d26cc5-1210-4bdf-beb4-0602f35bdccc",
+      "limitedAccess": false,
+      "identifier": "80d26cc5-1210-4bdf-beb4-0602f35bdccc",
+      "name": "Zaailand - Zaailand"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/be44890c-73a9-4c1d-a814-09b2dea679e7",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/be44890c-73a9-4c1d-a814-09b2dea679e7",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.5882829848258,
+        "longitude": 4.786058664321899
+      },
+      "identifier": "be44890c-73a9-4c1d-a814-09b2dea679e7",
+      "name": "P3 - Chasséveld"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/48c15c57-c56a-4144-a14e-f2e484870e5c",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/48c15c57-c56a-4144-a14e-f2e484870e5c",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.34565658333334,
+        "longitude": 5.614957805555555
+      },
+      "identifier": "48c15c57-c56a-4144-a14e-f2e484870e5c",
+      "name": "Westeinde - Westeinde"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/5829fb06-ee4a-4762-946c-ed6209edf7d5",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/5829fb06-ee4a-4762-946c-ed6209edf7d5",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.256324421386,
+        "longitude": 6.15569114685059
+      },
+      "identifier": "5829fb06-ee4a-4762-946c-ed6209edf7d5",
+      "name": "P03 - Dek Stadspoort"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e4da517a-ef32-426d-821c-96e29ac5ac80",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e4da517a-ef32-426d-821c-96e29ac5ac80",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.558229784814124,
+        "longitude": 5.088949799537659
+      },
+      "identifier": "e4da517a-ef32-426d-821c-96e29ac5ac80",
+      "name": "P7 - Pieter Vreedeplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/79c88146-686a-4f39-8467-c906e6bc4161",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/79c88146-686a-4f39-8467-c906e6bc4161",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.095195996615026,
+        "longitude": 5.11139988899231
+      },
+      "identifier": "79c88146-686a-4f39-8467-c906e6bc4161",
+      "name": "Paardenveld - Paardenveld"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/99431b95-4b81-410b-8b72-6bb133d93ab4",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/99431b95-4b81-410b-8b72-6bb133d93ab4",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.58452325488173,
+        "longitude": 4.775340557098389
+      },
+      "identifier": "99431b95-4b81-410b-8b72-6bb133d93ab4",
+      "name": "P10 - Concordiastraat"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e922d462-0d38-44be-a3b0-62c11e1baf34",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e922d462-0d38-44be-a3b0-62c11e1baf34",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.06799870113459,
+        "longitude": 5.177870392799377
+      },
+      "identifier": "e922d462-0d38-44be-a3b0-62c11e1baf34",
+      "name": "Rhijnauwen Lus (P2) - Rhijnauwen Lus (P2)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/62075c53-5284-47d4-8909-3872721380d7",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/62075c53-5284-47d4-8909-3872721380d7",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2110911111111,
+        "longitude": 5.96102713888889
+      },
+      "identifier": "62075c53-5284-47d4-8909-3872721380d7",
+      "name": "PAP03 - Brinkpark Kortparkeerders"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/4f090b45-74a5-423b-bbd4-eac06943110c",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/4f090b45-74a5-423b-bbd4-eac06943110c",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09857060177943,
+        "longitude": 5.125594139099121
+      },
+      "identifier": "4f090b45-74a5-423b-bbd4-eac06943110c",
+      "name": "Grifthoek - Grifthoek"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/0c9bc6de-95be-4803-8fb9-483b2291338d",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/0c9bc6de-95be-4803-8fb9-483b2291338d",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09381180738805,
+        "longitude": 5.129284858703613
+      },
+      "identifier": "0c9bc6de-95be-4803-8fb9-483b2291338d",
+      "name": "Kruisstraat - Kruisstraat"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/31938897-d183-426d-ad6b-0c613a147cea",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/31938897-d183-426d-ad6b-0c613a147cea",
+      "limitedAccess": false,
+      "identifier": "31938897-d183-426d-ad6b-0c613a147cea",
+      "name": "P27 - P_Colosseumweg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/88d7ff06-cc47-4fbe-8786-ef081c178e77",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/88d7ff06-cc47-4fbe-8786-ef081c178e77",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.58978945596664,
+        "longitude": 4.78503942489624
+      },
+      "identifier": "88d7ff06-cc47-4fbe-8786-ef081c178e77",
+      "name": "P4 - Het Turfschip"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/931ca30a-d1d7-41d3-b263-9ca1242d70e0",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/931ca30a-d1d7-41d3-b263-9ca1242d70e0",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09039069835134,
+        "longitude": 5.1148974895477295
+      },
+      "identifier": "931ca30a-d1d7-41d3-b263-9ca1242d70e0",
+      "name": "Hoog Catharijne P6 - Hoog Catharijne P6 (Rijnkade)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e96dcc78-9584-4692-8b87-a749f4e178d7",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e96dcc78-9584-4692-8b87-a749f4e178d7",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.34992973343006,
+        "longitude": 5.6142497062683105
+      },
+      "identifier": "e96dcc78-9584-4692-8b87-a749f4e178d7",
+      "name": "Stille Wei - Stille Wei"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/15e3670a-4510-450e-95a9-94d6b8f4a615",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/15e3670a-4510-450e-95a9-94d6b8f4a615",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09017975433362,
+        "longitude": 5.113159418106079
+      },
+      "identifier": "15e3670a-4510-450e-95a9-94d6b8f4a615",
+      "name": "Hoog Catharijne P2 - Hoog Catharijne P2 (Godebald)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/b00dce24-b1ae-4526-895f-814cb16f354e",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/b00dce24-b1ae-4526-895f-814cb16f354e",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.8729803571662,
+        "longitude": 4.47684288024902
+      },
+      "identifier": "b00dce24-b1ae-4526-895f-814cb16f354e",
+      "name": "P30 - P+R_Slinge benedendek"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/9c63ecc3-e1e3-4079-b2c2-efb12d2eebdc",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/9c63ecc3-e1e3-4079-b2c2-efb12d2eebdc",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.553780463298,
+        "longitude": 5.08840799331665
+      },
+      "identifier": "9c63ecc3-e1e3-4079-b2c2-efb12d2eebdc",
+      "name": "P2 - Koningsplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/2d60fb96-10a3-444b-a2c9-1d93a3c893f1",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/2d60fb96-10a3-444b-a2c9-1d93a3c893f1",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.55405397237777,
+        "longitude": 5.081133842468262
+      },
+      "identifier": "2d60fb96-10a3-444b-a2c9-1d93a3c893f1",
+      "name": "P5 - Schouwburg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d381c28b-2cf8-48b6-b0f8-8166c08cf25f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d381c28b-2cf8-48b6-b0f8-8166c08cf25f",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2131619079695,
+        "longitude": 5.96844077110291
+      },
+      "identifier": "d381c28b-2cf8-48b6-b0f8-8166c08cf25f",
+      "name": "PAP02 - Koningshaven"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/26b41495-1c1d-46e3-8988-eba02cf85fa8",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/26b41495-1c1d-46e3-8988-eba02cf85fa8",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.8733380548501,
+        "longitude": 4.4769287109375
+      },
+      "identifier": "26b41495-1c1d-46e3-8988-eba02cf85fa8",
+      "name": "P301 - P+R Slinge bovendek"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/3e8c29cf-8a38-4a13-b545-c0d23615a84a",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/3e8c29cf-8a38-4a13-b545-c0d23615a84a",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.591495840811106,
+        "longitude": 4.7705769538879395
+      },
+      "identifier": "3e8c29cf-8a38-4a13-b545-c0d23615a84a",
+      "name": "P7 - De Prins"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d6ea05f4-e484-4db8-84cd-a0ac20db1f1f",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/d6ea05f4-e484-4db8-84cd-a0ac20db1f1f",
+      "limitedAccess": false,
+      "identifier": "d6ea05f4-e484-4db8-84cd-a0ac20db1f1f",
+      "name": "P36 - P+R_Alexander"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/96ec46a4-8089-49a8-8ca4-df67a5d0bdc1",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/96ec46a4-8089-49a8-8ca4-df67a5d0bdc1",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.84240656861573,
+        "longitude": 5.856581926345825
+      },
+      "identifier": "96ec46a4-8089-49a8-8ca4-df67a5d0bdc1",
+      "name": "P1 - Keizer Karel"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/4988115d-7c6e-4a4a-bd9d-5605e692c2cb",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/4988115d-7c6e-4a4a-bd9d-5605e692c2cb",
+      "limitedAccess": false,
+      "identifier": "4988115d-7c6e-4a4a-bd9d-5605e692c2cb",
+      "name": "P5 - P_Oude Haven"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/9386ab02-ee17-4fd7-9580-93115e203a31",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/9386ab02-ee17-4fd7-9580-93115e203a31",
+      "limitedAccess": false,
+      "identifier": "9386ab02-ee17-4fd7-9580-93115e203a31",
+      "name": "P18 - P_Boompjes"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/4d958ee5-ca22-4cf1-9568-7b3aafa4350e",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/4d958ee5-ca22-4cf1-9568-7b3aafa4350e",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2563638260229,
+        "longitude": 6.15393161773682
+      },
+      "identifier": "4d958ee5-ca22-4cf1-9568-7b3aafa4350e",
+      "name": "P04 - Kelder Stadspoort"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/b702aa0d-1392-4b9c-a158-5ead5179f9ad",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/b702aa0d-1392-4b9c-a158-5ead5179f9ad",
+      "limitedAccess": false,
+      "identifier": "b702aa0d-1392-4b9c-a158-5ead5179f9ad",
+      "name": "P1 - P_Erasmusbrug"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/deb8f7da-0864-4019-8715-53ca185efc42",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/deb8f7da-0864-4019-8715-53ca185efc42",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.844600568563486,
+        "longitude": 5.8658623695373535
+      },
+      "identifier": "deb8f7da-0864-4019-8715-53ca185efc42",
+      "name": "P5 - Marienburg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/6174492c-1ce0-4ab0-8ff5-ada4aaa62f4f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/6174492c-1ce0-4ab0-8ff5-ada4aaa62f4f",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09135311777744,
+        "longitude": 5.112231373786926
+      },
+      "identifier": "6174492c-1ce0-4ab0-8ff5-ada4aaa62f4f",
+      "name": "Hoog Catharijne P3 - Hoog Catharijne P3 (Radboud)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/3d8fb675-ffa8-4fb0-b8e6-0410dd8902f3",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/3d8fb675-ffa8-4fb0-b8e6-0410dd8902f3",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.19838635076391,
+        "longitude": 5.985145568847656
+      },
+      "identifier": "3d8fb675-ffa8-4fb0-b8e6-0410dd8902f3",
+      "name": "P00 - Kazerneplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a4265c3c-b33d-4f83-973b-bf7eb97958e2",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/a4265c3c-b33d-4f83-973b-bf7eb97958e2",
+      "limitedAccess": false,
+      "identifier": "a4265c3c-b33d-4f83-973b-bf7eb97958e2",
+      "name": "P47 - P_Hoogvliet Centrum"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/775c9d41-a3cf-4047-95cd-784d6f876e91",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/775c9d41-a3cf-4047-95cd-784d6f876e91",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.35063751368113,
+        "longitude": 5.6233906745910645
+      },
+      "identifier": "775c9d41-a3cf-4047-95cd-784d6f876e91",
+      "name": "Scheepssingel - Scheepssingel"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/9ae7126a-ee1c-481e-810a-e30a8a3c55dc",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/9ae7126a-ee1c-481e-810a-e30a8a3c55dc",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.08112799819222,
+        "longitude": 5.103042125701904
+      },
+      "identifier": "9ae7126a-ee1c-481e-810a-e30a8a3c55dc",
+      "name": "Jaarbeurs P2 - Jaarbeurs P2"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ffab40f6-4a10-41f2-9cc1-b9c2879d8c37",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/ffab40f6-4a10-41f2-9cc1-b9c2879d8c37",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.84664864723714,
+        "longitude": 5.870475769042969
+      },
+      "identifier": "ffab40f6-4a10-41f2-9cc1-b9c2879d8c37",
+      "name": "P3 - Kelfkensbos"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/217b9236-5375-474f-acf9-6093cd6493c5",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/217b9236-5375-474f-acf9-6093cd6493c5",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.1910477,
+        "longitude": 5.990299
+      },
+      "identifier": "217b9236-5375-474f-acf9-6093cd6493c5",
+      "name": "P10 - De Oranjerie"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e9567c06-d063-441e-817b-6d44c145ee0f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e9567c06-d063-441e-817b-6d44c145ee0f",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09247701281645,
+        "longitude": 5.104174017906189
+      },
+      "identifier": "e9567c06-d063-441e-817b-6d44c145ee0f",
+      "name": "Kop van Lombok - Kop van Lombok"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d79529a2-cc17-475b-a803-48d1d7e6de87",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d79529a2-cc17-475b-a803-48d1d7e6de87",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.58436325947214,
+        "longitude": 4.767358303070068
+      },
+      "identifier": "d79529a2-cc17-475b-a803-48d1d7e6de87",
+      "name": "P11 - Gasthuisvelden / Arsenaalpad"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/cfd85964-ad15-4963-99d2-0b8aaa5a7a17",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/cfd85964-ad15-4963-99d2-0b8aaa5a7a17",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.586389833333335,
+        "longitude": 4.783709055555556
+      },
+      "identifier": "cfd85964-ad15-4963-99d2-0b8aaa5a7a17",
+      "name": "P1 - Chasséparking"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/70abd541-a025-4b29-b99c-0a96a6f23a06",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/70abd541-a025-4b29-b99c-0a96a6f23a06",
+      "limitedAccess": false,
+      "identifier": "70abd541-a025-4b29-b99c-0a96a6f23a06",
+      "name": "Hoog Catharijne P6 - Hoog Catharijne P6 (Rijnkade)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/328cbed1-dfe1-4984-8cf6-4b4d9671b168",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/328cbed1-dfe1-4984-8cf6-4b4d9671b168",
+      "limitedAccess": false,
+      "identifier": "328cbed1-dfe1-4984-8cf6-4b4d9671b168",
+      "name": "P34 - P+R_Meijersplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/255aa0fa-e249-42cc-ac6d-062d41b2ae62",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/255aa0fa-e249-42cc-ac6d-062d41b2ae62",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.5551579984091,
+        "longitude": 5.088724493980408
+      },
+      "identifier": "255aa0fa-e249-42cc-ac6d-062d41b2ae62",
+      "name": "P1 - Emmapassage"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/1c7d3c13-d991-4e1e-a686-6678cc26f075",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/1c7d3c13-d991-4e1e-a686-6678cc26f075",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.35476600594218,
+        "longitude": 5.627145767211914
+      },
+      "identifier": "1c7d3c13-d991-4e1e-a686-6678cc26f075",
+      "name": "Flevoweg - Flevoweg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/558ec6d7-e8e1-4683-8206-84e3f73caa6b",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/558ec6d7-e8e1-4683-8206-84e3f73caa6b",
+      "limitedAccess": false,
+      "identifier": "558ec6d7-e8e1-4683-8206-84e3f73caa6b",
+      "name": "Springweg - Springweg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/f22df42e-9338-4232-ad23-0cb74658724a",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/f22df42e-9338-4232-ad23-0cb74658724a",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.347871861111116,
+        "longitude": 5.61783313888889
+      },
+      "identifier": "f22df42e-9338-4232-ad23-0cb74658724a",
+      "name": "Klooster - Klooster"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ae50dbd5-c4c8-4cf3-aac1-e633225ff5c4",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/ae50dbd5-c4c8-4cf3-aac1-e633225ff5c4",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.53934218643719,
+        "longitude": 5.075125694274902
+      },
+      "identifier": "ae50dbd5-c4c8-4cf3-aac1-e633225ff5c4",
+      "name": "P8 - Stappegoor"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d8397d26-b88c-48d2-b35a-6b0241c6f333",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d8397d26-b88c-48d2-b35a-6b0241c6f333",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.35346852777778,
+        "longitude": 5.620086194444445
+      },
+      "identifier": "d8397d26-b88c-48d2-b35a-6b0241c6f333",
+      "name": "Boulevard - Boulevard"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/84af4dc6-992d-40dd-a6e1-a1900ea7961f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/84af4dc6-992d-40dd-a6e1-a1900ea7961f",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.84750364280097,
+        "longitude": 5.866667032241821
+      },
+      "identifier": "84af4dc6-992d-40dd-a6e1-a1900ea7961f",
+      "name": "P6 - Eiermarkt"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/8bcc6b34-5273-4b36-9306-4475c60255c2",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/8bcc6b34-5273-4b36-9306-4475c60255c2",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.84845140960078,
+        "longitude": 5.85397481918335
+      },
+      "identifier": "8bcc6b34-5273-4b36-9306-4475c60255c2",
+      "name": "P2 - Oude Stad"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a03c3613-6fed-4659-906f-17843c227622",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/a03c3613-6fed-4659-906f-17843c227622",
+      "limitedAccess": false,
+      "identifier": "a03c3613-6fed-4659-906f-17843c227622",
+      "name": "Hoeksterend - Hoeksterend"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/45434989-3252-4c85-8731-c856b02c390c",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/45434989-3252-4c85-8731-c856b02c390c",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2573226613971,
+        "longitude": 6.16240739822388
+      },
+      "identifier": "45434989-3252-4c85-8731-c856b02c390c",
+      "name": "P01 - Stationsplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/9064b206-7e62-402d-ae62-f25a0e47571b",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/9064b206-7e62-402d-ae62-f25a0e47571b",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.08549917740244,
+        "longitude": 5.106196403503418
+      },
+      "identifier": "9064b206-7e62-402d-ae62-f25a0e47571b",
+      "name": "Jaarbeurs P3 - Jaarbeurs P3"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/02d02aed-629a-4c88-b1ac-9931be4dbc51",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/02d02aed-629a-4c88-b1ac-9931be4dbc51",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.588736264582444,
+        "longitude": 4.782078266143799
+      },
+      "identifier": "02d02aed-629a-4c88-b1ac-9931be4dbc51",
+      "name": "P5 - Beyerd-Vlaszak"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/434d35c9-ebf6-4937-952e-1e63688694ee",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/434d35c9-ebf6-4937-952e-1e63688694ee",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.19349177222469,
+        "longitude": 5.984029769897461
+      },
+      "identifier": "434d35c9-ebf6-4937-952e-1e63688694ee",
+      "name": "P05 - Roercenter"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e3736bac-8efe-4d71-b06b-ba2a54cfd815",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e3736bac-8efe-4d71-b06b-ba2a54cfd815",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.58620316666667,
+        "longitude": 4.7833013611111115
+      },
+      "identifier": "e3736bac-8efe-4d71-b06b-ba2a54cfd815",
+      "name": "P2 - Holland casino"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/e7fc4618-bd77-4e5d-bd50-9f4d9df74d13",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/e7fc4618-bd77-4e5d-bd50-9f4d9df74d13",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.35393378536099,
+        "longitude": 5.625332593917847
+      },
+      "identifier": "e7fc4618-bd77-4e5d-bd50-9f4d9df74d13",
+      "name": "Lelykade - Lelykade"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a1a378a5-f599-4afe-8561-2b7c91e0748b",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/a1a378a5-f599-4afe-8561-2b7c91e0748b",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.08964250178408,
+        "longitude": 5.113610029220581
+      },
+      "identifier": "a1a378a5-f599-4afe-8561-2b7c91e0748b",
+      "name": "Hoog Catharijne P1 - Hoog Catharijne P1 (Moreelsepark)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/dc96d900-8446-4e99-8a09-dd60da167fc8",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/dc96d900-8446-4e99-8a09-dd60da167fc8",
+      "limitedAccess": false,
+      "identifier": "dc96d900-8446-4e99-8a09-dd60da167fc8",
+      "name": "P2 - P_Kiphof"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/45ff8059-fe77-4fb9-b233-7e979f8d5b58",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/45ff8059-fe77-4fb9-b233-7e979f8d5b58",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.19473,
+        "longitude": 5.993793
+      },
+      "identifier": "45ff8059-fe77-4fb9-b233-7e979f8d5b58",
+      "name": "P09 - P+R Godsweerdersingel"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/650bc16f-d210-49f3-992b-530f9360b251",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/650bc16f-d210-49f3-992b-530f9360b251",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.08745716861027,
+        "longitude": 5.102596879005432
+      },
+      "identifier": "650bc16f-d210-49f3-992b-530f9360b251",
+      "name": "Jaarbeurs P1 - Jaarbeurs P1"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/8e464fb5-044a-4fcd-826d-a7b2a6bc9162",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/8e464fb5-044a-4fcd-826d-a7b2a6bc9162",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 53.1709583806887,
+        "longitude": 6.5915608406066895
+      },
+      "identifier": "8e464fb5-044a-4fcd-826d-a7b2a6bc9162",
+      "name": "P+R Haren 2 - P+R Haren 2"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/60bf0e76-d3bf-42d1-b7a0-04f0ab048e9d",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/60bf0e76-d3bf-42d1-b7a0-04f0ab048e9d",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.84382174396586,
+        "longitude": 5.863738059997559
+      },
+      "identifier": "60bf0e76-d3bf-42d1-b7a0-04f0ab048e9d",
+      "name": "P4 - Molenpoort"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/bae90cb2-90cc-4ef7-9752-672ef216a52c",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/bae90cb2-90cc-4ef7-9752-672ef216a52c",
+      "limitedAccess": false,
+      "identifier": "bae90cb2-90cc-4ef7-9752-672ef216a52c",
+      "name": "P23 - P_Schouwburgplein 2"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/5202846b-67e5-455e-a29e-0c26cb1912cc",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/5202846b-67e5-455e-a29e-0c26cb1912cc",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.09149154626114,
+        "longitude": 5.112086534500122
+      },
+      "identifier": "5202846b-67e5-455e-a29e-0c26cb1912cc",
+      "name": "Hoog Catharijne P4 - Hoog Catharijne P4 (Stationstraat)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/294157b9-5428-41d8-8f3a-252193ebe97d",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/294157b9-5428-41d8-8f3a-252193ebe97d",
+      "limitedAccess": false,
+      "identifier": "294157b9-5428-41d8-8f3a-252193ebe97d",
+      "name": "Hoog Catharijne P4 - Hoog Catharijne P4 (Stationstraat)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/dd4407e5-dded-46cc-a9f4-a5ef45bfc61a",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/dd4407e5-dded-46cc-a9f4-a5ef45bfc61a",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 53.203050820307034,
+        "longitude": 5.790460109710693
+      },
+      "identifier": "dd4407e5-dded-46cc-a9f4-a5ef45bfc61a",
+      "name": "Oldehove - Oldehove"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a2a3a9b4-6c17-47a9-aa70-1edef947743f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/a2a3a9b4-6c17-47a9-aa70-1edef947743f",
+      "limitedAccess": false,
+      "identifier": "a2a3a9b4-6c17-47a9-aa70-1edef947743f",
+      "name": "Vaartsche Rijn - Vaartsche Rijn"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/59020e50-9f16-454b-9ca1-ab398bd83b79",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/59020e50-9f16-454b-9ca1-ab398bd83b79",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.19230838947341,
+        "longitude": 5.995616912841797
+      },
+      "identifier": "59020e50-9f16-454b-9ca1-ab398bd83b79",
+      "name": "P07 - Stationspark"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/14f1046d-1fda-4081-883b-d6a8a2ad937d",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/14f1046d-1fda-4081-883b-d6a8a2ad937d",
+      "limitedAccess": false,
+      "identifier": "14f1046d-1fda-4081-883b-d6a8a2ad937d",
+      "name": "Klanderij - Klanderij"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/186af3cc-3ebe-40b1-a807-72f98dbc94f7",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/186af3cc-3ebe-40b1-a807-72f98dbc94f7",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2495594398646,
+        "longitude": 6.16193532943726
+      },
+      "identifier": "186af3cc-3ebe-40b1-a807-72f98dbc94f7",
+      "name": "P02 - Brink"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ed1ecb9f-bbf1-4578-97c7-16cd3ed8b4da",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/ed1ecb9f-bbf1-4578-97c7-16cd3ed8b4da",
+      "limitedAccess": false,
+      "identifier": "ed1ecb9f-bbf1-4578-97c7-16cd3ed8b4da",
+      "name": "Grifthoek - Grifthoek"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/600cd858-da11-44f3-96a7-1558492096e3",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/600cd858-da11-44f3-96a7-1558492096e3",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2550897250294,
+        "longitude": 6.16807222366333
+      },
+      "identifier": "600cd858-da11-44f3-96a7-1558492096e3",
+      "name": "P08 - P+R Handelskade"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/551be64d-fd3d-4f13-8afd-fc2b0186e67b",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/551be64d-fd3d-4f13-8afd-fc2b0186e67b",
+      "limitedAccess": false,
+      "identifier": "551be64d-fd3d-4f13-8afd-fc2b0186e67b",
+      "name": "Kop van Lombok - Kop van Lombok"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/0cd6fb80-6299-49c3-9d25-7b39c6124c7f",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/0cd6fb80-6299-49c3-9d25-7b39c6124c7f",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.43811824330201,
+        "longitude": 4.824280142784119
+      },
+      "identifier": "0cd6fb80-6299-49c3-9d25-7b39c6124c7f",
+      "name": "2 - Zaantheater"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/1c5821ea-fcbb-4cf9-ba94-97213c02302e",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/1c5821ea-fcbb-4cf9-ba94-97213c02302e",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.215548,
+        "longitude": 5.964031
+      },
+      "identifier": "1c5821ea-fcbb-4cf9-ba94-97213c02302e",
+      "name": "PAP01 - Marktplein"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ba0769fd-d11a-47c3-8014-e43c1d9d1742",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/ba0769fd-d11a-47c3-8014-e43c1d9d1742",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.094128197283446,
+        "longitude": 5.115283727645874
+      },
+      "identifier": "ba0769fd-d11a-47c3-8014-e43c1d9d1742",
+      "name": "La Vie - La Vie"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/4de760da-4148-484f-b3bc-74c9f8811dcf",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/4de760da-4148-484f-b3bc-74c9f8811dcf",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.064582208854986,
+        "longitude": 5.17032265663147
+      },
+      "identifier": "4de760da-4148-484f-b3bc-74c9f8811dcf",
+      "name": "Oud Amelisweerd (P3) - Oud Amelisweerd (P3)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/0b3e54e1-e91e-454c-909d-392e33cb6c9a",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/0b3e54e1-e91e-454c-909d-392e33cb6c9a",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.56082446554211,
+        "longitude": 5.078451633453369
+      },
+      "identifier": "0b3e54e1-e91e-454c-909d-392e33cb6c9a",
+      "name": "P4 - Knegtel"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/c479f58b-1683-4321-adff-3e54ad468e59",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/c479f58b-1683-4321-adff-3e54ad468e59",
+      "limitedAccess": false,
+      "identifier": "c479f58b-1683-4321-adff-3e54ad468e59",
+      "name": "Hoog Catharijne P2 - Hoog Catharijne P2 (Godebald)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a89f5b00-3759-43d0-829e-58dc01173bf6",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/a89f5b00-3759-43d0-829e-58dc01173bf6",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.55865668333436,
+        "longitude": 5.092881917953491
+      },
+      "identifier": "a89f5b00-3759-43d0-829e-58dc01173bf6",
+      "name": "P6 - 013 - Tivoli"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/fa25b695-5055-40a5-9930-ac2aa77ba975",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/fa25b695-5055-40a5-9930-ac2aa77ba975",
+      "limitedAccess": false,
+      "identifier": "fa25b695-5055-40a5-9930-ac2aa77ba975",
+      "name": "P4 - P_Schouwburgplein 1"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/9237aa38-24b7-48b0-8a11-b4a99d6a8183",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/9237aa38-24b7-48b0-8a11-b4a99d6a8183",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.556822325372295,
+        "longitude": 5.090703964233398
+      },
+      "identifier": "9237aa38-24b7-48b0-8a11-b4a99d6a8183",
+      "name": "P3 - Heuvelpoort"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/3a2cade6-19ab-4a95-8409-459cf8b46cdf",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/3a2cade6-19ab-4a95-8409-459cf8b46cdf",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 53.20134137218582,
+        "longitude": 5.802358388900757
+      },
+      "identifier": "3a2cade6-19ab-4a95-8409-459cf8b46cdf",
+      "name": "Oosterstraat - Oosterstraat"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/40212393-05d9-45a4-a287-123af9ad325a",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/40212393-05d9-45a4-a287-123af9ad325a",
+      "limitedAccess": false,
+      "identifier": "40212393-05d9-45a4-a287-123af9ad325a",
+      "name": "Hoog Catharijne P1 - Hoog Catharijne P1 (Moreelsepark)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/07ebd650-9e8c-4c3e-bd43-6d73989d8431",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/07ebd650-9e8c-4c3e-bd43-6d73989d8431",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.350244305555556,
+        "longitude": 5.621159083333334
+      },
+      "identifier": "07ebd650-9e8c-4c3e-bd43-6d73989d8431",
+      "name": "Vuldersbrink - Vuldersbrink"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d32eb328-c4ae-4f1f-a7a3-6f0d8dc60789",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d32eb328-c4ae-4f1f-a7a3-6f0d8dc60789",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.4387493961441,
+        "longitude": 4.82349157333374
+      },
+      "identifier": "d32eb328-c4ae-4f1f-a7a3-6f0d8dc60789",
+      "name": "1 - Rozenhof"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/084af006-a649-44cb-8dc4-2b2b144e92c6",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/084af006-a649-44cb-8dc4-2b2b144e92c6",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.34828475592206,
+        "longitude": 5.621148347854614
+      },
+      "identifier": "084af006-a649-44cb-8dc4-2b2b144e92c6",
+      "name": "Houtwal - Houtwal"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d6d158aa-65cd-4255-8560-e5a935eb8235",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d6d158aa-65cd-4255-8560-e5a935eb8235",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.1905467065823,
+        "longitude": 5.992891788482666
+      },
+      "identifier": "d6d158aa-65cd-4255-8560-e5a935eb8235",
+      "name": "P11 - P+R Veeladingstraat"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a21402aa-3776-4426-99ab-758623372614",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/a21402aa-3776-4426-99ab-758623372614",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.35272147222222,
+        "longitude": 5.624613750000001
+      },
+      "identifier": "a21402aa-3776-4426-99ab-758623372614",
+      "name": "Havendijk - Havendijk"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/0861cbd5-0ff9-4f70-ab72-5bfee0c40856",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/0861cbd5-0ff9-4f70-ab72-5bfee0c40856",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.07818067193853,
+        "longitude": 5.123276710510254
+      },
+      "identifier": "0861cbd5-0ff9-4f70-ab72-5bfee0c40856",
+      "name": "Vaartsche Rijn - Vaartsche Rijn"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/d7a0d9a7-681f-48a9-829c-0e4b4269123b",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/d7a0d9a7-681f-48a9-829c-0e4b4269123b",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.088759152242126,
+        "longitude": 5.119773745536804
+      },
+      "identifier": "d7a0d9a7-681f-48a9-829c-0e4b4269123b",
+      "name": "Springweg - Springweg"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ded2fb4e-c545-4ecf-8edf-54c45bd9511e",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/ded2fb4e-c545-4ecf-8edf-54c45bd9511e",
+      "limitedAccess": false,
+      "identifier": "ded2fb4e-c545-4ecf-8edf-54c45bd9511e",
+      "name": "La Vie - La Vie"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/552a9b88-f367-42ba-a429-0abdafd14886",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/552a9b88-f367-42ba-a429-0abdafd14886",
+      "limitedAccess": false,
+      "identifier": "552a9b88-f367-42ba-a429-0abdafd14886",
+      "name": "Hoog Catharijne P5 - Hoog Catharijne P5 (Vredenburg)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/6540c8a8-09b0-40cc-a453-e0757d1ef050",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/6540c8a8-09b0-40cc-a453-e0757d1ef050",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 51.58757639265605,
+        "longitude": 4.7725725173950195
+      },
+      "identifier": "6540c8a8-09b0-40cc-a453-e0757d1ef050",
+      "name": "P8 - De Barones"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/a212aba0-b2aa-4033-9db3-89728ac91604",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/a212aba0-b2aa-4033-9db3-89728ac91604",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.091946379683705,
+        "longitude": 5.113052129745483
+      },
+      "identifier": "a212aba0-b2aa-4033-9db3-89728ac91604",
+      "name": "Hoog Catharijne P5 - Hoog Catharijne P5 (Vredenburg)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/200e0f50-57f5-4cb8-9a46-e172ed735a86",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/200e0f50-57f5-4cb8-9a46-e172ed735a86",
+      "limitedAccess": false,
+      "identifier": "200e0f50-57f5-4cb8-9a46-e172ed735a86",
+      "name": "Hoog Catharijne P3 - Hoog Catharijne P3 (Radboud)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/f11238fd-85e6-493c-ae1b-f87f65654061",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/f11238fd-85e6-493c-ae1b-f87f65654061",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.070511436934936,
+        "longitude": 5.177607536315918
+      },
+      "identifier": "f11238fd-85e6-493c-ae1b-f87f65654061",
+      "name": "Rhijnauwen Theehuis (P1) - Rhijnauwen Theehuis (P1)"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/ac1a8242-ea7d-48ff-8935-9fbe07691d77",
+      "staticDataUrl": "https://npropendata.rdw.nl/parkingdata/v2/static/ac1a8242-ea7d-48ff-8935-9fbe07691d77",
+      "limitedAccess": false,
+      "identifier": "ac1a8242-ea7d-48ff-8935-9fbe07691d77",
+      "name": "P19 - P_Museumpark"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/7df00281-07d6-470b-a379-cc3fc20d1607",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/7df00281-07d6-470b-a379-cc3fc20d1607",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 53.17021235736379,
+        "longitude": 6.592526435852051
+      },
+      "identifier": "7df00281-07d6-470b-a379-cc3fc20d1607",
+      "name": "P+R Haren 1 - P+R Haren 1"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/0e8a6857-655d-467b-8c15-8ee65c7357bf",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/0e8a6857-655d-467b-8c15-8ee65c7357bf",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.2547350718495,
+        "longitude": 6.15916728973389
+      },
+      "identifier": "0e8a6857-655d-467b-8c15-8ee65c7357bf",
+      "name": "P05 - Centrumgarage"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/82e673d6-3426-4444-9bd3-5c22f2775bc2",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/82e673d6-3426-4444-9bd3-5c22f2775bc2",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.25325,
+        "longitude": 6.164703
+      },
+      "identifier": "82e673d6-3426-4444-9bd3-5c22f2775bc2",
+      "name": "P07 - De Boreel"
+    },
+    {
+      "dynamicDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/dynamic/2b887560-3791-4011-9c9c-1f79046f9ec9",
+      "staticDataUrl": "http://opendata.technolution.nl/opendata/parkingdata/v1/static/2b887560-3791-4011-9c9c-1f79046f9ec9",
+      "limitedAccess": false,
+      "locationForDisplay": {
+        "coordinatesType": "WGS84",
+        "latitude": 52.082275226931465,
+        "longitude": 5.101497173309326
+      },
+      "identifier": "2b887560-3791-4011-9c9c-1f79046f9ec9",
+      "name": "Jaarbeurs P4 - Jaarbeurs P4"
+    }
+  ]
+}
