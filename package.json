@@ -8,6 +8,7 @@
     "dev": "npm-run-all --parallel watch:* "
   },
   "devDependencies": {
+    "@types/bluebird": "^3.5.2",
     "@types/express": "^4.0.35",
     "@types/lodash": "^4.14.62",
     "@types/node": "^7.0.12",
@@ -27,6 +28,8 @@
     "webpack-node-externals": "^1.5.4"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "eventful-node": "^1.1.1",
     "express": "^4.15.2",
     "lodash": "^4.17.4",
     "pino": "^4.2.4",

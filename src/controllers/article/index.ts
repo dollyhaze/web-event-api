@@ -3,6 +3,6 @@ import ctrl from './controller'
 
 const router = express.Router();
 
-router.get('/', ctrl.getArticles)
+router.get('/', ctrl.getEvents)
 
 export default router

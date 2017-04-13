@@ -4,7 +4,7 @@ import logger from './helpers/logger';
 
 const app = express();
 
-app.use('/article', article)
+app.use('/events', article)
 
 app.listen(3000, (err) => {
   if(err) {
