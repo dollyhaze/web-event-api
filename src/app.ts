@@ -6,6 +6,7 @@ const app = express();
 
 app.use('/events', article)
 
+
 app.listen(3000, (err) => {
   if(err) {
     return logger.error(err)
