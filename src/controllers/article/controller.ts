@@ -11,12 +11,11 @@ export default class ArticleCtrl extends Base {
     } else {
       const res = await client.searchEvents({
         location: "Rotterdam, Netherlands",
-        page_size: 250
+        page_size: 100
       })
       response = poorMansCache = res.events
     }
-
-    res.status(200).json({
+    res.json({
       events: response,
     })
   }
