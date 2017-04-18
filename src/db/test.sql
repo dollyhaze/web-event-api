@@ -29,15 +29,15 @@ SET time_zone = "+00:00";
 CREATE TABLE `parking` (
   `id` int(11) UNSIGNED NOT NULL,
   `name` varchar(235) NOT NULL,
-  `x` varchar(235) DEFAULT NULL,
-  `y` varchar(235) DEFAULT NULL
+  `longitude` varchar(235) DEFAULT NULL,
+  `latitude` varchar(235) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `parking`
 --
 
-INSERT INTO `parking` (`id`, `name`, `x`, `y`) VALUES
+INSERT INTO `parking` (`id`, `name`, `longitude`, `latitude`) VALUES
 (1, 'P06 - Sluisstraat', '52.2490470982696', '6.16317987442017'),
 (2, '3 - Burcht', '52.43874285574651', '4.828051328659058'),
 (3, 'P3 - Chasséveld', '51.5882829848258', '4.786058664321899'),

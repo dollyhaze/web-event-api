@@ -30,6 +30,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "cors": "^2.8.3",
+    "dotenv": "^4.0.0",
     "eventful-node": "^1.1.1",
     "express": "^4.15.2",
     "lodash": "^4.17.4",
